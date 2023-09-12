@@ -11,6 +11,7 @@
 ## Introduction
 
 Welcome to goodreads_webscraping! This project is a deep dive into the world of books and data, where we explore web scraping and data analysis. Whether you're a book lover or just curious about the power of data, this project is designed to intrigue and inspire.
+You can find an article to this project on [Medium](https://medium.com/@adesua/scraping-goodreads-a-beginners-guide-3ad3a5907c2a)
 
 ## Features
 
