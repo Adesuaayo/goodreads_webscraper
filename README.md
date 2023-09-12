@@ -1,4 +1,4 @@
-# goodreads_webscraper
+# Goodreads Webscraping and Analysis
 
 ## Table of Contents
 
